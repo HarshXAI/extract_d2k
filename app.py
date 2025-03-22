@@ -30,7 +30,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 def main():
-    st.title("📄 Financial Document Analyzer")
+    st.title("📄 Finity Data Extractor")
     st.markdown("Upload financial documents (PDF/Excel/CSV) to extract structured financial data")
 
     # File upload
